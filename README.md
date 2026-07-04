@@ -63,7 +63,7 @@ The dataset contains product-level information, including:
 ## Project Files
 
 * **Dataset:** `dataset/zepto_v2.csv`
-* **SQL Queries:** - <a href= "https://github.com/reeti-verma/Zepto-SQL-Analysis/blob/main/zepto_Insights.sql"></a>
+- <a href= "https://github.com/reeti-verma/Zepto-SQL-Analysis/blob/main/zepto_Insights.sql">**SQL Queries:**</a>
 
 
 ## Conclusion
